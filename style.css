@@ -1,0 +1,14 @@
+
+.ml-auto {
+    left: auto !important;
+    right: 0px;
+}
+
+#top-main{
+    background-image: url("images/hannahPicture.png");
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position:right top 5px;
+    height:400px;
+    background-color:white;
+}
