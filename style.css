@@ -1,0 +1,29 @@
+
+.ml-auto {
+    left: auto !important;
+    right: 0px;
+}
+
+#top-main{
+    background-image: url("images/hannahPicture.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:right top 2px;
+    height:400px;
+    background-color:white;
+}
+
+#blue-section{
+    background-color: #488CCB;
+    color:white;
+}
+
+.blue-background{
+    background-color: #488CCB;
+    color:white;
+
+}
+
+#top-pic{
+    border: 6px solid #488CCB;
+}
