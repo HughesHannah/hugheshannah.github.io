@@ -8,6 +8,11 @@
     background-color: #FFFFFF !important;
 }
 
+.han-image {
+    display: flex;
+    justify-content: center;
+}
+
 #top-main{
     background-size: cover;
     background-repeat: no-repeat;
