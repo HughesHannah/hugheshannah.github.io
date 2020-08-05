@@ -8,16 +8,11 @@
     background-color: #FFFFFF !important;
 }
 
-.han-image {
-    display: flex;
-    justify-content: center;
-}
-
 #top-main{
     background-size: cover;
     background-repeat: no-repeat;
     background-position:right top 2px;
-    height:200px;
+    height:20vh;
     background-color:white;
 }
 
@@ -35,3 +30,10 @@
 #top-pic{
     border: 6px solid #5f87d2;
 }
+
+
+#hannah-pic{
+    margin-top:10%;
+    width:150%;
+}
+
