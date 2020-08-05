@@ -4,26 +4,29 @@
     right: 0px;
 }
 
+.han{
+    background-color: #FFFFFF !important;
+}
+
 #top-main{
-    background-image: url("images/hannahPicture.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position:right top 2px;
-    height:400px;
+    height:200px;
     background-color:white;
 }
 
 #blue-section{
-    background-color: #488CCB;
+    background-color: #5f87d2;
     color:white;
 }
 
 .blue-background{
-    background-color: #488CCB;
+    background-color: #5f87d2;
     color:white;
 
 }
 
 #top-pic{
-    border: 6px solid #488CCB;
+    border: 6px solid #5f87d2;
 }
